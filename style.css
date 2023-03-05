@@ -1,0 +1,16 @@
+body{
+  background-color: dodgerblue;
+}
+h1{
+  background-color: aqua;
+  color: crimson;
+  text-align: center;
+}
+p{
+  text-align: justify;
+  color: azure;
+}
+button{
+  width: 70px;
+  
+}
